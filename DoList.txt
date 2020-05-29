@@ -1,8 +1,0 @@
-if newuser = create user
-
-UserArray = {"karma"}
-
-filter on/off "+", "-"
-
-User:
-	
